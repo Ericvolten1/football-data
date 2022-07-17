@@ -1,119 +1,119 @@
-,Unnamed: 0,HomeTeam,AwayTeam,PSH,PSD,PSA,Date,Unnamed: 0.1
-0,0,Patronato,Arsenal,1.62,3.2,2.15,2022-07-09,288.0
-2,3,Talleres Córdoba,Barracas Central,1.25,3.5,3.75,2022-07-09,291.0
-3,4,Platense,Newell's Old Boys,1.88,3.1,1.82,2022-07-09,292.0
-4,1,San Lorenzo,Boca Juniors,2.6,3.1,1.45,2022-07-09,289.0
-0,288,Patronato,Arsenal,1.62,3.2,2.15,2022-07-09,
-1,289,San Lorenzo,Boca Juniors,2.6,3.1,1.45,2022-07-09,
-2,290,Banfield,Unión Santa Fe,1.45,3.1,2.55,2022-07-09,
-3,291,Talleres Córdoba,Barracas Central,1.25,3.5,3.75,2022-07-09,
-4,292,Platense,Newell's Old Boys,1.88,3.1,1.82,2022-07-09,
-1,2,Banfield,Unión Santa Fe,1.45,3.1,2.55,2022-07-09,290.0
-5,5,Estudiantes,Central Córdoba SdE,1.3,3.4,3.4,2022-07-10,293.0
-6,6,Racing Club,Independiente,1.33,3.4,3.4,2022-07-10,294.0
-7,7,Atlético Tucumán,Gimnasia La Plata,1.72,3.1,2.17,2022-07-10,295.0
-0,153,Coritiba,Juventude,2.15,3.2,3.25,2022-07-10,
-11,0,Coritiba,Juventude,2.15,3.2,3.25,2022-07-10,153.0
-12,2,Urawa Reds,Tokyo,2.0,3.1,3.6,2022-07-10,184.0
-13,3,Cerezo Osaka,Yokohama F. Marinos,3.0,3.25,2.15,2022-07-10,185.0
-14,4,Avispa Fukuoka,Kyoto Sanga,2.45,2.87,2.9,2022-07-10,186.0
-15,5,Sagan Tosu,Kashiwa Reysol,2.25,3.0,3.1,2022-07-10,187.0
-16,5,Cuiabá,Botafogo,2.37,3.0,3.0,2022-07-10,158.0
-17,4,Fortaleza,Palmeiras,4.6,3.3,1.75,2022-07-10,157.0
-18,3,Santos,Atlético GO,1.91,3.2,4.0,2022-07-10,156.0
-19,2,Atlético Mineiro,São Paulo,1.73,3.4,4.75,2022-07-10,155.0
-20,1,Corinthians,Flamengo,2.2,3.1,3.2,2022-07-10,154.0
-21,1,Sanfrecce Hiroshima,Shonan Bellmare,1.75,3.1,5.0,2022-07-10,183.0
-9,9,River Plate,Godoy Cruz,1.15,4.0,5.75,2022-07-10,297.0
-8,8,Lanús,Huracán,1.94,3.0,1.9,2022-07-10,296.0
-10,0,Nagoya Grampus,Shimizu S-Pulse,1.91,3.1,3.9,2022-07-10,182.0
-4,186,Avispa Fukuoka,Kyoto Sanga,2.45,2.87,2.9,2022-07-10,
-5,158,Cuiabá,Botafogo,2.37,3.0,3.0,2022-07-10,
-2,155,Atlético Mineiro,São Paulo,1.73,3.4,4.75,2022-07-10,
-1,154,Corinthians,Flamengo,2.2,3.1,3.2,2022-07-10,
-9,297,River Plate,Godoy Cruz,1.15,4.0,5.75,2022-07-10,
-8,296,Lanús,Huracán,1.94,3.0,1.9,2022-07-10,
-4,157,Fortaleza,Palmeiras,4.6,3.3,1.75,2022-07-10,
-5,187,Sagan Tosu,Kashiwa Reysol,2.25,3.0,3.1,2022-07-10,
-6,294,Racing Club,Independiente,1.33,3.4,3.4,2022-07-10,
-5,293,Estudiantes,Central Córdoba SdE,1.3,3.4,3.4,2022-07-10,
-0,182,Nagoya Grampus,Shimizu S-Pulse,1.91,3.1,3.9,2022-07-10,
-1,183,Sanfrecce Hiroshima,Shonan Bellmare,1.75,3.1,5.0,2022-07-10,
-2,184,Urawa Reds,Tokyo,2.0,3.1,3.6,2022-07-10,
-3,185,Cerezo Osaka,Yokohama F. Marinos,3.0,3.25,2.15,2022-07-10,
-7,295,Atlético Tucumán,Gimnasia La Plata,1.72,3.1,2.17,2022-07-10,
-3,156,Santos,Atlético GO,1.91,3.2,4.0,2022-07-10,
-23,10,Defensa y Justicia,Aldosivi,1.25,3.5,3.75,2022-07-11,298.0
-22,11,Colón,Vélez Sarsfield,2.0,3.1,1.75,2022-07-11,299.0
-24,6,Internacional,América Mineiro,1.75,3.6,4.75,2022-07-11,159.0
-11,299,Colón,Vélez Sarsfield,2.0,3.1,1.75,2022-07-11,
-10,298,Defensa y Justicia,Aldosivi,1.25,3.5,3.75,2022-07-11,
-6,159,Internacional,América Mineiro,1.75,3.6,4.75,2022-07-11,
-12,300,Argentinos Juniors,Tigre,1.55,3.1,2.35,2022-07-12,
-25,12,Argentinos Juniors,Tigre,1.55,3.1,2.35,2022-07-12,300.0
-26,1,Atlanta United FC,Real Salt Lake,1.85,3.6,3.75,2022-07-13,264.0
-27,0,Austin,Houston Dynamo,1.73,4.1,4.5,2022-07-13,263.0
-1,264,Atlanta United FC,Real Salt Lake,1.85,3.6,3.75,2022-07-13,
-0,263,Austin,Houston Dynamo,1.73,4.1,4.5,2022-07-13,
-8,271,Colorado Rapids,Orlando City,1.84,3.7,3.97,2022-07-14,
-7,270,Nashville SC,Seattle Sounders,1.99,3.46,3.67,2022-07-14,
-6,269,Minnesota United,Sporting KC,1.73,3.6,4.25,2022-07-14,
-5,268,Inter Miami,Philadelphia Union,2.5,3.2,2.65,2022-07-14,
-4,267,DC United,Columbus Crew,2.15,3.56,3.32,2022-07-14,
-3,266,FC Cincinnati,Vancouver Whitecaps,1.95,3.5,3.5,2022-07-14,
-2,265,Chicago Fire,Toronto,1.63,4.2,5.15,2022-07-14,
-34,4,DC United,Columbus Crew,2.15,3.56,3.32,2022-07-14,267.0
-35,3,FC Cincinnati,Vancouver Whitecaps,1.95,3.5,3.5,2022-07-14,266.0
-33,5,Inter Miami,Philadelphia Union,2.5,3.2,2.65,2022-07-14,268.0
-32,2,Chicago Fire,Toronto,1.63,4.2,5.15,2022-07-14,265.0
-31,7,Nashville SC,Seattle Sounders,1.99,3.46,3.67,2022-07-14,270.0
-29,9,FC Dallas,New York City,2.41,3.64,2.66,2022-07-14,272.0
-28,10,LA Galaxy,SJ Earthquakes,1.61,3.9,4.75,2022-07-14,273.0
-9,272,FC Dallas,New York City,2.41,3.64,2.66,2022-07-14,
-36,6,Minnesota United,Sporting KC,1.73,3.6,4.25,2022-07-14,269.0
-10,273,LA Galaxy,SJ Earthquakes,1.61,3.9,4.75,2022-07-14,
-30,8,Colorado Rapids,Orlando City,1.84,3.7,3.97,2022-07-14,271.0
-46,6,Kashima Antlers,Vissel Kobe,1.55,3.75,5.25,2022-07-16,188.0
-45,7,Atlético PR,Internacional,2.15,3.1,3.0,2022-07-16,160.0
-44,9,Avaí,Santos,2.7,3.0,2.4,2022-07-16,162.0
-43,7,Shimizu S-Pulse,Urawa Reds,3.12,3.08,2.2,2022-07-16,189.0
-42,8,Nagoya Grampus,Kawasaki Frontale,2.7,3.3,2.45,2022-07-16,190.0
-41,9,Kashiwa Reysol,Consadole Sapporo,2.13,3.27,3.07,2022-07-16,191.0
-40,10,Shonan Bellmare,Avispa Fukuoka,2.32,2.92,3.07,2022-07-16,192.0
-39,11,Gamba Osaka,Cerezo Osaka,3.05,3.37,2.11,2022-07-16,193.0
-38,8,Flamengo,Coritiba,1.3,4.25,11.0,2022-07-16,161.0
-11,193,Gamba Osaka,Cerezo Osaka,3.05,3.37,2.11,2022-07-16,
-7,160,Atlético PR,Internacional,2.15,3.1,3.0,2022-07-16,
-8,161,Flamengo,Coritiba,1.3,4.25,11.0,2022-07-16,
-9,162,Avaí,Santos,2.7,3.0,2.4,2022-07-16,
-6,188,Kashima Antlers,Vissel Kobe,1.55,3.75,5.25,2022-07-16,
-7,189,Shimizu S-Pulse,Urawa Reds,3.12,3.08,2.2,2022-07-16,
-8,190,Nagoya Grampus,Kawasaki Frontale,2.7,3.3,2.45,2022-07-16,
-9,191,Kashiwa Reysol,Consadole Sapporo,2.13,3.27,3.07,2022-07-16,
-12,194,Sagan Tosu,Yokohama F. Marinos,3.35,3.3,2.0,2022-07-16,
-37,12,Sagan Tosu,Yokohama F. Marinos,3.35,3.3,2.0,2022-07-16,194.0
-10,192,Shonan Bellmare,Avispa Fukuoka,2.32,2.92,3.07,2022-07-16,
-11,164,Juventude,Goiás,2.35,3.25,3.1,2022-07-17,
-10,163,Ceará,Corinthians,2.55,3.1,2.9,2022-07-17,
-0,118,Finn Harps,Derry City,4.6,3.4,1.67,2022-07-17,
-14,167,Atlético GO,Fortaleza,2.05,3.1,3.3,2022-07-17,
-13,166,Botafogo,Atlético Mineiro,1.95,3.0,3.7,2022-07-17,
-1,119,Sligo Rovers,UCD,1.33,4.33,8.5,2022-07-17,
-47,11,Juventude,Goiás,2.35,3.25,3.1,2022-07-17,164.0
-48,10,Ceará,Corinthians,2.55,3.1,2.9,2022-07-17,163.0
-49,14,Atlético GO,Fortaleza,2.05,3.1,3.3,2022-07-17,167.0
-50,0,Finn Harps,Derry City,4.6,3.4,1.67,2022-07-17,118.0
-51,1,Sligo Rovers,UCD,1.33,4.33,8.5,2022-07-17,119.0
-52,13,Botafogo,Atlético Mineiro,1.95,3.0,3.7,2022-07-17,166.0
-55,3,Dundalk,Finn Harps,1.51,4.1,5.5,2022-07-22,122.0
-54,2,Derry City,Sligo Rovers,1.78,3.3,4.4,2022-07-22,121.0
-56,4,UCD,Shelbourne,4.5,3.5,1.72,2022-07-22,123.0
-5,124,Shamrock Rovers,Drogheda United,1.2,6.0,12.5,2022-07-22,
-4,123,UCD,Shelbourne,4.5,3.5,1.72,2022-07-22,
-2,121,Derry City,Sligo Rovers,1.78,3.3,4.4,2022-07-22,
-53,5,Shamrock Rovers,Drogheda United,1.2,6.0,12.5,2022-07-22,124.0
-3,122,Dundalk,Finn Harps,1.51,4.1,5.5,2022-07-22,
-54,236,Kawasaki Frontale,Sagan Tosu,1.7,3.6,4.8,2022-08-31,
-57,54,Kawasaki Frontale,Sagan Tosu,1.7,3.6,4.8,2022-08-31,236.0
-183,446,SJ Earthquakes,LA Galaxy,2.43,3.5,2.48,2022-09-23,
-58,183,SJ Earthquakes,LA Galaxy,2.43,3.5,2.48,2022-09-23,446.0
+,HomeTeam,AwayTeam,PSH,PSD,PSA,Date
+0,Patronato,Arsenal,1.62,3.2,2.15,2022-07-09
+2,Talleres Córdoba,Barracas Central,1.25,3.5,3.75,2022-07-09
+3,Platense,Newell's Old Boys,1.88,3.1,1.82,2022-07-09
+4,San Lorenzo,Boca Juniors,2.6,3.1,1.45,2022-07-09
+0,Patronato,Arsenal,1.62,3.2,2.15,2022-07-09
+1,San Lorenzo,Boca Juniors,2.6,3.1,1.45,2022-07-09
+2,Banfield,Unión Santa Fe,1.45,3.1,2.55,2022-07-09
+3,Talleres Córdoba,Barracas Central,1.25,3.5,3.75,2022-07-09
+4,Platense,Newell's Old Boys,1.88,3.1,1.82,2022-07-09
+1,Banfield,Unión Santa Fe,1.45,3.1,2.55,2022-07-09
+5,Estudiantes,Central Córdoba SdE,1.3,3.4,3.4,2022-07-10
+6,Racing Club,Independiente,1.33,3.4,3.4,2022-07-10
+7,Atlético Tucumán,Gimnasia La Plata,1.72,3.1,2.17,2022-07-10
+0,Coritiba,Juventude,2.15,3.2,3.25,2022-07-10
+11,Coritiba,Juventude,2.15,3.2,3.25,2022-07-10
+12,Urawa Reds,Tokyo,2.0,3.1,3.6,2022-07-10
+13,Cerezo Osaka,Yokohama F. Marinos,3.0,3.25,2.15,2022-07-10
+14,Avispa Fukuoka,Kyoto Sanga,2.45,2.87,2.9,2022-07-10
+15,Sagan Tosu,Kashiwa Reysol,2.25,3.0,3.1,2022-07-10
+16,Cuiabá,Botafogo,2.37,3.0,3.0,2022-07-10
+17,Fortaleza,Palmeiras,4.6,3.3,1.75,2022-07-10
+18,Santos,Atlético GO,1.91,3.2,4.0,2022-07-10
+19,Atlético Mineiro,São Paulo,1.73,3.4,4.75,2022-07-10
+20,Corinthians,Flamengo,2.2,3.1,3.2,2022-07-10
+21,Sanfrecce Hiroshima,Shonan Bellmare,1.75,3.1,5.0,2022-07-10
+9,River Plate,Godoy Cruz,1.15,4.0,5.75,2022-07-10
+8,Lanús,Huracán,1.94,3.0,1.9,2022-07-10
+10,Nagoya Grampus,Shimizu S-Pulse,1.91,3.1,3.9,2022-07-10
+4,Avispa Fukuoka,Kyoto Sanga,2.45,2.87,2.9,2022-07-10
+5,Cuiabá,Botafogo,2.37,3.0,3.0,2022-07-10
+2,Atlético Mineiro,São Paulo,1.73,3.4,4.75,2022-07-10
+1,Corinthians,Flamengo,2.2,3.1,3.2,2022-07-10
+9,River Plate,Godoy Cruz,1.15,4.0,5.75,2022-07-10
+8,Lanús,Huracán,1.94,3.0,1.9,2022-07-10
+4,Fortaleza,Palmeiras,4.6,3.3,1.75,2022-07-10
+5,Sagan Tosu,Kashiwa Reysol,2.25,3.0,3.1,2022-07-10
+6,Racing Club,Independiente,1.33,3.4,3.4,2022-07-10
+5,Estudiantes,Central Córdoba SdE,1.3,3.4,3.4,2022-07-10
+0,Nagoya Grampus,Shimizu S-Pulse,1.91,3.1,3.9,2022-07-10
+1,Sanfrecce Hiroshima,Shonan Bellmare,1.75,3.1,5.0,2022-07-10
+2,Urawa Reds,Tokyo,2.0,3.1,3.6,2022-07-10
+3,Cerezo Osaka,Yokohama F. Marinos,3.0,3.25,2.15,2022-07-10
+7,Atlético Tucumán,Gimnasia La Plata,1.72,3.1,2.17,2022-07-10
+3,Santos,Atlético GO,1.91,3.2,4.0,2022-07-10
+23,Defensa y Justicia,Aldosivi,1.25,3.5,3.75,2022-07-11
+22,Colón,Vélez Sarsfield,2.0,3.1,1.75,2022-07-11
+24,Internacional,América Mineiro,1.75,3.6,4.75,2022-07-11
+11,Colón,Vélez Sarsfield,2.0,3.1,1.75,2022-07-11
+10,Defensa y Justicia,Aldosivi,1.25,3.5,3.75,2022-07-11
+6,Internacional,América Mineiro,1.75,3.6,4.75,2022-07-11
+12,Argentinos Juniors,Tigre,1.55,3.1,2.35,2022-07-12
+25,Argentinos Juniors,Tigre,1.55,3.1,2.35,2022-07-12
+26,Atlanta United FC,Real Salt Lake,1.85,3.6,3.75,2022-07-13
+27,Austin,Houston Dynamo,1.73,4.1,4.5,2022-07-13
+1,Atlanta United FC,Real Salt Lake,1.85,3.6,3.75,2022-07-13
+0,Austin,Houston Dynamo,1.73,4.1,4.5,2022-07-13
+8,Colorado Rapids,Orlando City,1.84,3.7,3.97,2022-07-14
+7,Nashville SC,Seattle Sounders,1.99,3.46,3.67,2022-07-14
+6,Minnesota United,Sporting KC,1.73,3.6,4.25,2022-07-14
+5,Inter Miami,Philadelphia Union,2.5,3.2,2.65,2022-07-14
+4,DC United,Columbus Crew,2.15,3.56,3.32,2022-07-14
+3,FC Cincinnati,Vancouver Whitecaps,1.95,3.5,3.5,2022-07-14
+2,Chicago Fire,Toronto,1.63,4.2,5.15,2022-07-14
+34,DC United,Columbus Crew,2.15,3.56,3.32,2022-07-14
+35,FC Cincinnati,Vancouver Whitecaps,1.95,3.5,3.5,2022-07-14
+33,Inter Miami,Philadelphia Union,2.5,3.2,2.65,2022-07-14
+32,Chicago Fire,Toronto,1.63,4.2,5.15,2022-07-14
+31,Nashville SC,Seattle Sounders,1.99,3.46,3.67,2022-07-14
+29,FC Dallas,New York City,2.41,3.64,2.66,2022-07-14
+28,LA Galaxy,SJ Earthquakes,1.61,3.9,4.75,2022-07-14
+9,FC Dallas,New York City,2.41,3.64,2.66,2022-07-14
+36,Minnesota United,Sporting KC,1.73,3.6,4.25,2022-07-14
+10,LA Galaxy,SJ Earthquakes,1.61,3.9,4.75,2022-07-14
+30,Colorado Rapids,Orlando City,1.84,3.7,3.97,2022-07-14
+46,Kashima Antlers,Vissel Kobe,1.55,3.75,5.25,2022-07-16
+45,Atlético PR,Internacional,2.15,3.1,3.0,2022-07-16
+44,Avaí,Santos,2.7,3.0,2.4,2022-07-16
+43,Shimizu S-Pulse,Urawa Reds,3.12,3.08,2.2,2022-07-16
+42,Nagoya Grampus,Kawasaki Frontale,2.7,3.3,2.45,2022-07-16
+41,Kashiwa Reysol,Consadole Sapporo,2.13,3.27,3.07,2022-07-16
+40,Shonan Bellmare,Avispa Fukuoka,2.32,2.92,3.07,2022-07-16
+39,Gamba Osaka,Cerezo Osaka,3.05,3.37,2.11,2022-07-16
+38,Flamengo,Coritiba,1.3,4.25,11.0,2022-07-16
+11,Gamba Osaka,Cerezo Osaka,3.05,3.37,2.11,2022-07-16
+7,Atlético PR,Internacional,2.15,3.1,3.0,2022-07-16
+8,Flamengo,Coritiba,1.3,4.25,11.0,2022-07-16
+9,Avaí,Santos,2.7,3.0,2.4,2022-07-16
+6,Kashima Antlers,Vissel Kobe,1.55,3.75,5.25,2022-07-16
+7,Shimizu S-Pulse,Urawa Reds,3.12,3.08,2.2,2022-07-16
+8,Nagoya Grampus,Kawasaki Frontale,2.7,3.3,2.45,2022-07-16
+9,Kashiwa Reysol,Consadole Sapporo,2.13,3.27,3.07,2022-07-16
+12,Sagan Tosu,Yokohama F. Marinos,3.35,3.3,2.0,2022-07-16
+37,Sagan Tosu,Yokohama F. Marinos,3.35,3.3,2.0,2022-07-16
+10,Shonan Bellmare,Avispa Fukuoka,2.32,2.92,3.07,2022-07-16
+11,Juventude,Goiás,2.35,3.25,3.1,2022-07-17
+10,Ceará,Corinthians,2.55,3.1,2.9,2022-07-17
+0,Finn Harps,Derry City,4.6,3.4,1.67,2022-07-17
+14,Atlético GO,Fortaleza,2.05,3.1,3.3,2022-07-17
+13,Botafogo,Atlético Mineiro,1.95,3.0,3.7,2022-07-17
+1,Sligo Rovers,UCD,1.33,4.33,8.5,2022-07-17
+47,Juventude,Goiás,2.35,3.25,3.1,2022-07-17
+48,Ceará,Corinthians,2.55,3.1,2.9,2022-07-17
+49,Atlético GO,Fortaleza,2.05,3.1,3.3,2022-07-17
+50,Finn Harps,Derry City,4.6,3.4,1.67,2022-07-17
+51,Sligo Rovers,UCD,1.33,4.33,8.5,2022-07-17
+52,Botafogo,Atlético Mineiro,1.95,3.0,3.7,2022-07-17
+55,Dundalk,Finn Harps,1.51,4.1,5.5,2022-07-22
+54,Derry City,Sligo Rovers,1.78,3.3,4.4,2022-07-22
+56,UCD,Shelbourne,4.5,3.5,1.72,2022-07-22
+5,Shamrock Rovers,Drogheda United,1.2,6.0,12.5,2022-07-22
+4,UCD,Shelbourne,4.5,3.5,1.72,2022-07-22
+2,Derry City,Sligo Rovers,1.78,3.3,4.4,2022-07-22
+53,Shamrock Rovers,Drogheda United,1.2,6.0,12.5,2022-07-22
+3,Dundalk,Finn Harps,1.51,4.1,5.5,2022-07-22
+54,Kawasaki Frontale,Sagan Tosu,1.7,3.6,4.8,2022-08-31
+57,Kawasaki Frontale,Sagan Tosu,1.7,3.6,4.8,2022-08-31
+183,SJ Earthquakes,LA Galaxy,2.43,3.5,2.48,2022-09-23
+58,SJ Earthquakes,LA Galaxy,2.43,3.5,2.48,2022-09-23
